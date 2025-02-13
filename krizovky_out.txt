@@ -1,0 +1,144 @@
+Crossword 1:
+####
+#ad#
+#d##
+##a#
+#ad#
+####
+Time taken: 0.00 seconds
+
+Total time: 0.00 min
+Points so far: 0.50
+
+
+Crossword 2:
+#####
+#ace#
+#m#a#
+#egg#
+#b#e#
+#air#
+#####
+Time taken: 0.03 seconds
+
+Total time: 0.00 min
+Points so far: 1.50
+
+
+Crossword 3:
+######
+#diva#
+#omen#
+#omit#
+#den##
+#ad#b#
+#dial#
+##ace#
+#ache#
+#dyed#
+######
+Time taken: 0.42 seconds
+
+Total time: 0.01 min
+Points so far: 3.00
+
+
+Crossword 4:
+#######
+#alias#
+#dodge#
+####ad#
+#sprig#
+#aline#
+#fad###
+#enema#
+####ad#
+#amend#
+#######
+Time taken: 6.99 seconds
+
+Total time: 0.12 min
+Points so far: 4.50
+
+
+Crossword 5:
+########
+#meager#
+#entire#
+#ad##ad#
+#duma###
+#orange#
+#we##ad#
+###gala#
+#ibidem#
+########
+Time taken: 406.97 seconds
+
+Total time: 6.91 min
+Points so far: 6.00
+
+
+Crossword 6:
+#########
+#bandana#
+#ad#o#an#
+#ddt#egg#
+#n#a#e#u#
+#ebb#lei#
+#so#t#as#
+#sabbath#
+#########
+Time taken: 0.44 seconds
+
+Total time: 6.91 min
+Points so far: 8.00
+
+
+Crossword 7:
+############
+#alga#atlas#
+#f#anal#are#
+#area#gamin#
+#rill#ahead#
+##c####e####
+#ceca#balsa#
+#r#ad#adept#
+#appall#pro#
+#frog#satin#
+#tone#adage#
+############
+Time taken: 201.71 seconds
+
+Total time: 10.28 min
+Points so far: 10.00
+
+
+Crossword 8:
+######################
+#scald#piano#alarm#ad#
+#cad#abandon#bad#aura#
+#ad#black#scrub#f#pen#
+#b#s#eke#b#eat#via#ad#
+##ace#e#pas#g#cello#e#
+#adage#aloha#censurer#
+#b#brier#bade#ad#mad##
+#b##edam#amen#sea#tea#
+#e#story#bend#eel#end#
+#####l#####o####i#####
+#ad#dona#obi#eden#ohm#
+#do#anal#bad#rice#nee#
+#debt#neath#bash#ceca#
+##slack#gutty#bosh#ad#
+#eke#aegis#algae#alto#
+#did#belle#banns#meow#
+#an#d#nee#l#wad#a#am##
+#m#out#e#fee#t#add#be#
+##aloha#irish#olden#a#
+#add#edify#pearl#boar#
+######################
+Time taken: 138.91 seconds
+
+Total time: 12.59 min
+Points so far: 12.00
+
+
