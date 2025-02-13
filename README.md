@@ -1,6 +1,7 @@
 # CSP - Crossword-solver
 The "Crossword Solver" project, implemented in Python, solves crossword puzzles using CSP techniques, backtracking, and the MRV heuristic. It efficiently fills a 2D grid with words from a dictionary, ensuring valid placements. Key features include word preprocessing, heuristic optimization, and saving solved puzzles with performance metrics.
 
+# Projekt CSP – Riešenie Krížoviek
 Projekt z predmetu úvod do umelej inteligencie.
 
 Tento program je implementovaný v jazyku **Python** a rieši problém **CSP (Constraint Satisfaction Problem)**, konkrétne problém riešenia krížoviek. Používa algoritmus **backtracking** a heuristiku **MRV (Minimum Remaining Values)** na vyplnenie prázdnych pozícií v krížovke slovami zo zadaného zoznamu. 
@@ -13,7 +14,7 @@ Krížovka sa považuje za vyriešenú, ak:
 - nie sú prítomné žiadne prázdne miesta,
 - všetky slová v smere nadol a doprava sú platné slová zo zadaného slovníka.
 
-## Mnou implementované metódy
+## Hlavné metódy
 - **`can_write_word(self, position, word)`**: Skontroluje, či je možné umiestniť slovo na danú pozíciu.
 - **`grid_to_string(self)`**: Formátovanie aktuálnej mriežky na reťazec na účely uloženia do súboru.
 - **`preprocess_words(words)`**: Predspracuje zoznam slov - zgrupuje ich podľa dĺžky a vráti slovník, kde kľúčom je dĺžka slova a hodnotou zoznam slov tejto dĺžky. Tento krok zefektívňuje vyhľadávanie vhodných slov.
